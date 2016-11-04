@@ -1,0 +1,32 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "Social network API junction",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barindam/social.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Arindam Biswas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barindam/social/issues"
+  },
+  "homepage": "https://github.com/barindam/social#readme"
+}
